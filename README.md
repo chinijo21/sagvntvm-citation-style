@@ -87,11 +87,7 @@ Si encuentras algún error o mejora potencial (porque nadie es perfecto, ni siqu
 
 ## 📜 Licencia
 
-<<<<<<< HEAD
-Este estilo CSL está disponible bajo la licencia Creative Commons Attribution-ShareAlike 3.0.
-=======
 M.I.T
->>>>>>> 7d6281053611bab1659e57a0174a69ae495e189b
 
 ## ⚠️ Nota Importante
 
@@ -99,6 +95,6 @@ Este estilo ha sido creado siguiendo las normas de citación publicadas por la r
 
 ---
 
-*Hecho con ❤️ (y un poco de frustración) para la comunidad arqueológica*
+*Hecho con ❤️ (y un poco de frustración) para la comunidad arqueológica* - Juan
 
 *"Citar bien es lo que separa a un arqueólogo de un saqueador de tumbas."* 🏛️
