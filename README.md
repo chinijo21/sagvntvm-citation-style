@@ -1,4 +1,4 @@
-# SAGVNTVM - Estilo de Citación CSL
+# SAGVNTVM - Para Zotero y otros gestores bibliográficos
 
 Estilo de citación personalizado para la revista **SAGVNTVM** (Papeles del Laboratorio de Arqueología de Valencia, Universitat de València).
 
@@ -63,11 +63,7 @@ LONGIN, R. (1971): New Method of Collagen Extraction for Radiocarbon Dating, Nat
 
 ### Publicaciones en internet (con autor)
 ```
-<<<<<<< HEAD
-RIPOLLÈS ALEGRE, P.P. (2022): Kili | Gili, Moneda Ibérica (MIB) (P.P. Ripollès Alegre, M. Gozalbes Fernández de Palencia, eds.), https://monedaiberica.org/v4/mint/141 (consulta 6/2/2025).
-=======
 RIPOLLÈS ALEGRE, P.P. (2022): Kilin | Gili, Moneda Ibérica (MIB) (P.P. Ripollès Alegre, M. Gozalbes Fernández de Palencia, eds.), https://monedaiberica.org/v4/mint/141 (consulta 6/2/2025).
->>>>>>> 7d6281053611bab1659e57a0174a69ae495e189b
 ```
 
 ### Publicaciones en internet (sin autor)
@@ -79,7 +75,6 @@ Punica granatum, www.florayfaunaiberica.org (consulta 28/2/2011).
 
 - **`saguntum.csl`** - Archivo del estilo CSL listo para usar en Zotero
 - **`saguntum.xml`** - Copia del estilo en formato XML (mismo contenido, extensión diferente)
-- **`citation_guidelines.md`** - Guía completa de las normas de citación de SAGVNTVM
 
 ## 🤝 Contribuciones
 
@@ -87,11 +82,7 @@ Si encuentras algún error o mejora potencial (porque nadie es perfecto, ni siqu
 
 ## 📜 Licencia
 
-<<<<<<< HEAD
-Este estilo CSL está disponible bajo la licencia Creative Commons Attribution-ShareAlike 3.0.
-=======
 M.I.T
->>>>>>> 7d6281053611bab1659e57a0174a69ae495e189b
 
 ## ⚠️ Nota Importante
 
@@ -99,6 +90,6 @@ Este estilo ha sido creado siguiendo las normas de citación publicadas por la r
 
 ---
 
-*Hecho con ❤️ (y un poco de frustración) para la comunidad arqueológica*
+*Hecho con ❤️ (y un poco de frustración) para la comunidad arqueológica* - Juan
 
 *"Citar bien es lo que separa a un arqueólogo de un saqueador de tumbas."* 🏛️
