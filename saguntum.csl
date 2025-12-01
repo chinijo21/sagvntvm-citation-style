@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="es-ES">
   <info>
-    <title>Saguntum (Custom - Uppercase)</title>
+    <title>SAGVNTVM</title>
     <title-short>Saguntum</title-short>
     <id>http://www.zotero.org/styles/saguntum-custom-uppercase</id>
     <author>
@@ -119,7 +119,7 @@
   <macro name="access">
     <choose>
       <if variable="DOI">
-        <text variable="DOI" prefix=". DOI: http://dx.doi.org/"/>
+        <text variable="DOI" prefix=". DOI: "/>
       </if>
       <else-if variable="URL">
         <group prefix=", " delimiter=" ">
