@@ -75,7 +75,6 @@ Punica granatum, www.florayfaunaiberica.org (consulta 28/2/2011).
 
 - **`saguntum.csl`** - Archivo del estilo CSL listo para usar en Zotero
 - **`saguntum.xml`** - Copia del estilo en formato XML (mismo contenido, extensión diferente)
-- **`citation_guidelines.md`** - Guía completa de las normas de citación de SAGVNTVM
 
 ## 🤝 Contribuciones
 
