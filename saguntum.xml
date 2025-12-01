@@ -119,7 +119,11 @@
   <macro name="access">
     <choose>
       <if variable="DOI">
+<<<<<<< HEAD
         <text variable="DOI" prefix=". DOI: "/>
+=======
+        <text variable="DOI" prefix=". DOI: http://dx.doi.org/"/>
+>>>>>>> 7d6281053611bab1659e57a0174a69ae495e189b
       </if>
       <else-if variable="URL">
         <group prefix=", " delimiter=" ">
