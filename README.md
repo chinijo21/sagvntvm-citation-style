@@ -63,7 +63,7 @@ LONGIN, R. (1971): New Method of Collagen Extraction for Radiocarbon Dating, Nat
 
 ### Publicaciones en internet (con autor)
 ```
-RIPOLLÈS ALEGRE, P.P. (2022): Kili | Gili, Moneda Ibérica (MIB) (P.P. Ripollès Alegre, M. Gozalbes Fernández de Palencia, eds.), https://monedaiberica.org/v4/mint/141 (consulta 6/2/2025).
+RIPOLLÈS ALEGRE, P.P. (2022): Kilin | Gili, Moneda Ibérica (MIB) (P.P. Ripollès Alegre, M. Gozalbes Fernández de Palencia, eds.), https://monedaiberica.org/v4/mint/141 (consulta 6/2/2025).
 ```
 
 ### Publicaciones en internet (sin autor)
@@ -83,7 +83,7 @@ Si encuentras algún error o mejora potencial (porque nadie es perfecto, ni siqu
 
 ## 📜 Licencia
 
-Este estilo CSL está disponible bajo la licencia Creative Commons Attribution-ShareAlike 3.0.
+M.I.T
 
 ## ⚠️ Nota Importante
 
