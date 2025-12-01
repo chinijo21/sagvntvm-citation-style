@@ -1,4 +1,4 @@
-# SAGVNTVM - Estilo de Citación CSL
+# SAGVNTVM - Para Zotero y otros gestores bibliográficos
 
 Estilo de citación personalizado para la revista **SAGVNTVM** (Papeles del Laboratorio de Arqueología de Valencia, Universitat de València).
 
