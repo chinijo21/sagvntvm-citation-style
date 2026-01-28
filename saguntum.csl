@@ -29,7 +29,7 @@
   <macro name="author">
     <names variable="author">
       <name name-as-sort-order="all" sort-separator=", " initialize-with="." delimiter="; " delimiter-precedes-last="always">
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family" font-variant="small-caps"/>
         <name-part name="given"/>
       </name>
       <label form="short" prefix=" (" suffix=")" text-case="lowercase"/>
@@ -69,8 +69,11 @@
   <macro name="title">
     <choose>
       <if type="book dissertation report thesis" match="any">
-        <text variable="title" font-style="normal"/>
+        <text variable="title" font-style="italic"/>
       </if>
+      <else-if type="article-journal article-magazine article-newspaper chapter paper-conference" match="any">
+        <text variable="title" quotes="true"/>
+      </else-if>
       <else>
         <text variable="title"/>
       </else>
@@ -91,7 +94,7 @@
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter=" ">
-          <text variable="container-title" font-style="italic" form="short"/>
+          <text variable="container-title" font-style="italic"/>
           <text variable="volume"/>
         </group>
       </else-if>
@@ -102,7 +105,10 @@
   </macro>
 
   <macro name="publisher">
-    <text variable="publisher-place"/>
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
   </macro>
 
   <macro name="pages">
